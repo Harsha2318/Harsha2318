@@ -1,57 +1,57 @@
-# 👋 Hey, I'm Harsha P
+<h1 align="center">Hi there 👋, I'm Harsha P</h1>
 
-🎓 B.E. CSE @ SVCE | 🤖 GenAI Intern @ Hidevs | 🛠️ LLM + FastAPI Developer
-
-Welcome to my GitHub! I'm passionate about building intelligent systems, automating workflows with LLMs, and crafting clean, scalable software with modern tools.
-
----
-
-## 🚀 Projects & Tools
-
-🔹 **AI Article Generator**  
-*SEO blog writer using FastAPI + Gemini API with real-time web research.*
-
-🔹 **Personalized GenAI Roadmap Agent**  
-*LLM-powered resume analyzer that builds structured learning plans.*
-
-🔹 **LangGraph ChatGPT Clone**  
-*Stateful AI chatbot with multi-turn memory using LangGraph.*
-
-🔹 **DevOps Platform**  
-*Dockerized web apps deployed to AWS EKS with CI/CD via GitHub Actions & Terraform.*
+<p align="center">
+  🚀 B.E. CSE @ SVCE | 🤖 GenAI Intern @ Hidevs | 🛠️ FastAPI & LangChain Developer <br/>
+  🧠 Passionate about LLMs, DevOps, and scalable backend systems
+</p>
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: Python, JavaScript, SQL, C, Java  
-- **Web**: React.js, Next.js, Node.js, FastAPI  
-- **AI/LLM**: LangChain, Gemini API, LangGraph, Prompt Engineering  
-- **DevOps**: Docker, GitHub Actions, Terraform, AWS  
-- **DB**: MongoDB, PostgreSQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/LangChain-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha2318&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2318&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2318&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2318&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🎯 Profiles
+## 🎯 Platforms
 
-- [LeetCode](https://leetcode.com/u/Harsha2318/) – 100+ Problems Solved  
-- [GFG](https://www.geeksforgeeks.org/user/harsha2318/) – Proficient, Scholar, Contributor  
-- [LinkedIn](https://www.linkedin.com/in/harsha-p-b02775250/)
+<p align="center">
+  <a href="https://leetcode.com/u/Harsha2318/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/harsha2318/"><img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harsha-p-b02775250/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 📬 Contact
 
-**Email:** harshagowda2318@gmail.com  
-**Location:** Bengaluru, India
+<p align="center">
+  📧 harshagowda2318@gmail.com <br/>
+  📍 Bengaluru, India
+</p>
 
 ---
 
-> *“Driven by curiosity. Building with purpose.”*
+<p align="center">
+  <i>"Driven by curiosity. Building with purpose."</i>
+</p>
