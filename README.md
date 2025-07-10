@@ -33,21 +33,26 @@
 
 ---
 
-## 💡 LeetCode & GeeksforGeeks Stats
+## 💡 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Harsha2318?theme=dark&font=Baloo+Bhai&ext=activity" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha2318-gfg&custom_title=GeeksforGeeks Stats&hide=stars,prs,issues,contribs&show_icons=true&icon_color=green&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🔗 Find Me On
+## 🔗 Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/Harsha2318/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/harsha2318/"><img src="https://img.shields.io/badge/GFG-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harsha-p-b02775250/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Harsha2318/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/harsha2318/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsha-p-b02775250/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
