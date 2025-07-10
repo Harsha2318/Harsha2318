@@ -41,7 +41,7 @@ Whether it's deploying cloud-native tools or writing GenAI agents that reason li
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2318&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha2318&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha2318&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
