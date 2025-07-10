@@ -9,12 +9,13 @@
 
 ## 🌟 About Me
 
-I'm a passionate engineer who blends AI with real-world problem solving. Whether it's deploying production-grade cloud apps or crafting GenAI agents that reason like humans — I love building impactful solutions that are clean, fast, and smart.
+I'm a Computer Science undergrad with a passion for building systems that are smart, fast, and solve real problems.  
+Whether it's deploying cloud-native tools or writing GenAI agents that reason like humans, I believe in learning by building.
 
-- 🧠 Focused on LangChain, FastAPI, and structured AI agents  
-- 🛠 Built blog writers, roadmap planners, and AI chatbots  
-- ☁️ Deploying apps on AWS with Docker, Terraform & CI/CD  
-- 📈 Continuously learning, building, and mentoring
+- 🧠 I enjoy playing with LLM orchestration, FastAPI, LangGraph, and intelligent pipelines  
+- ⚡ I'm curious about Quantum Computing and working toward research that bridges quantum tech with AI  
+- 🌱 I believe small ideas, built consistently, become powerful tools over time  
+- 🤝 I'm always open to learning from other devs, collaborating, or contributing to cool projects
 
 ---
 
@@ -46,13 +47,14 @@ I'm a passionate engineer who blends AI with real-world problem solving. Whether
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🌱 What I'm Exploring
 
-- 🧩 Solved **200+ coding problems** across platforms  
-- 🛠 Built **modular LLM pipelines** for GenAI use-cases  
-- ☁️ Deployed EKS-powered apps with **zero-downtime CI/CD**  
-- 🧑‍🏫 Contributed to **GenAI toolkits and open-source agents**  
-- 🥇 Certified in ML, Java, DSA, and Cloud Technologies
+- 🧠 Building LLM agents that think beyond just prompts  
+- ⚙️ Scaling backend APIs with FastAPI, Postgres & Docker  
+- 🔐 Exploring cloud security & observability (zero-trust models)  
+- 🔭 Beginning my journey into **Quantum Computing**  
+  > *I’m especially curious about quantum-resistant cryptography and how LLMs could assist quantum research. Planning to contribute papers & open tools soon.*  
+- ✍️ Improving prompt engineering, commit hygiene, and systems thinking
 
 ---
 
@@ -85,5 +87,5 @@ I'm a passionate engineer who blends AI with real-world problem solving. Whether
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Impactful+AI+Tools;Deploying+Cloud-Ready+Solutions;Writing+Clean%2C+Scalable+Code;Let%27s+Build+Something+Great+Together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Writing+clean+code+%E2%9C%94%EF%B8%8F;Deploying+cloud+apps+%E2%9C%94%EF%B8%8F;Learning+Quantum+Computing+%E2%9C%94%EF%B8%8F;Building+AI+tools+that+solve+real+problems+%E2%9C%94%EF%B8%8F;Let%27s+build+something+awesome+%F0%9F%9A%80"/>
 </p>
